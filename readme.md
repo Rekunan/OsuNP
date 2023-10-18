@@ -39,7 +39,7 @@ A redirect URL to the current map is also available <https://osu.bitknox.me/redi
 ```bash
 git clone https://github.com/bitknox/OsuNP.git
 cd OsuNP
-cargo build --realease 
+cargo build --release 
 ```
 
 To build it yourself, you will need to download [gosumemory](https://github.com/l3lackShark/gosumemory) and edit the code to point to the desired exe location.
